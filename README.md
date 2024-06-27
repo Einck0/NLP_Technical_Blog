@@ -5,8 +5,9 @@
 感知器的局限性： 
 
 感知器是最基本的神经网络，但它无法学习一些重要的数据模式，例如图4-1所示的“非此即彼”(XOR) 问题。在这种情况下，数据无法用一条直线（线性可分）进行区分，感知器便失效了。  
-![](https://yifdu.github.io/2018/12/20/Natural-Language-Processing-with-PyTorch%EF%BC%88%E5%9B%9B%EF%BC%89/classifier.png)
-<font color='grey'><center>图4-1 XOR数据集中的两个类绘制为圆形和星形。请注意，没有任何一行可以分隔这两个类。</font></center>
+![image](https://github.com/Einck0/NLP_Technical_Blog_Classify_Surnames/assets/91471683/49acc8a4-04f8-4fb8-ac1f-a32f5aa5f63b)
+
+<font color='grey'><center>图4-1 XOR数据集中的两个类绘制为白色和黑色。请注意，没有任何一行可以分隔这两个类。</font></center>
 
 多层感知器 (MLP):
 
